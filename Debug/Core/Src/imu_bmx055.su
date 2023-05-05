@@ -1,0 +1,5 @@
+imu_bmx055.c:17:6:I2C1_Read_NBytes	16	static
+imu_bmx055.c:22:13:I2C1_Write_NBytes	16	static
+imu_bmx055.c:26:7:I2C1_BMX055_GetGyro16	4	static
+imu_bmx055.c:30:6:I2C1_BMX055_zGyro	8	static
+imu_bmx055.c:36:6:I2C1_BMX055_Init	8	static

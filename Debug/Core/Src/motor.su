@@ -1,0 +1,2 @@
+motor.c:13:6:Motor_SetDuty_Left	24	static
+motor.c:42:6:Motor_SetDuty_Right	24	static

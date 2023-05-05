@@ -1,0 +1,8 @@
+sensor_adc.c:9:6:Sensor_Initialize	8	static
+sensor_adc.c:18:10:Sensor_GetValue_R2	4	static
+sensor_adc.c:19:10:Sensor_GetValue_R1	4	static
+sensor_adc.c:20:10:Sensor_GetValue_L2	4	static
+sensor_adc.c:21:10:Sensor_GetValue_L1	4	static
+sensor_adc.c:22:10:Sensor_GetValue_ML	4	static
+sensor_adc.c:23:10:Sensor_GetValue_MR	4	static
+sensor_adc.c:28:10:Sensor_GetValue_Battery	4	static

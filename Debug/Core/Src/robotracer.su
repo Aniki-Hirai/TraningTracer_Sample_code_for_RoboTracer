@@ -1,0 +1,6 @@
+robotracer.c:36:6:Robo_Tracer	16	static
+robotracer.c:114:9:Read_Marker	32	static
+robotracer.c:235:6:Marker_Write	24	static
+robotracer.c:252:6:Search_Run	8	static
+robotracer.c:286:6:Make_DriveCom	32	static
+robotracer.c:345:6:Command_Run	48	static

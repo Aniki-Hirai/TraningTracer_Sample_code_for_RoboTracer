@@ -1,0 +1,4 @@
+encoder.c:19:7:Encoder_GetDist_Left	8	static
+encoder.c:32:7:Encoder_GetDist_Right	8	static
+encoder.c:45:6:Encoder_Reset_Left	4	static
+encoder.c:57:6:Encoder_Reset_Right	4	static

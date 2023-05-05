@@ -1,0 +1,13 @@
+control.c:72:6:Interrupt_SysTick	16	static
+control.c:235:7:Interrupt_GetBootTime	4	static
+control.c:243:6:Control_VariableReset	4	static
+control.c:283:6:Servo_Enable	8	static
+control.c:291:6:Servo_Disable	8	static
+control.c:300:6:Acc_Set	16	static
+control.c:301:6:Vel_Set	16	static
+control.c:306:7:Get_Dist	4	static
+control.c:311:7:Get_Vel	4	static
+control.c:316:9:Get_LineOut_Flag	4	static
+control.c:321:9:Get_MarkerState_L	4	static
+control.c:322:9:Get_MarkerState_R	4	static
+control.c:327:6:Buzz_Set	16	static

@@ -1,0 +1,10 @@
+communicate.c:22:9:Communicate_TerminalRecv	16	static
+communicate.c:29:6:Communicate_RxPushData	4	static
+communicate.c:48:9:Communicate_RxPopData	16	static,ignoring_inline_asm
+communicate.c:84:6:Communicate_TxPushData	16	static,ignoring_inline_asm
+communicate.c:130:6:Communicate_TxPopData	8	static
+communicate.c:154:6:HAL_UART_RxCpltCallback	16	static
+communicate.c:161:6:HAL_UART_TxCpltCallback	16	static
+communicate.c:171:6:Communicate_Initialize	8	static
+communicate.c:184:1:__io_putchar	16	static
+communicate.c:198:1:__io_getchar	8	static
