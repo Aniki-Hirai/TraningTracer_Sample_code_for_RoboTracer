@@ -1,4 +1,5 @@
-# TrainingTracer_Samples
+# TraningTracer_Samples_code_for_RoboTracer
+
 著者が制作した，株式会社アールティ社の教材用ロボットである[トレーニングトレーサー](https://rt-net.jp/products/rt-tracer/)の走行用プログラムです．
 マイクロマウスコンテストで開催されるロボトレース競技に参加できるコードが一通り記載してあります．
 
