@@ -27,7 +27,7 @@ PA11 -> ブザー接続
 PA12 -> DRV8835 AIN2接続 
 
 ## 元となったソフト構成
-オープンとなっているマイクロマウスキット　Zirconia　の下位層のソフト構成をベースとしている．
+オープンとなっているマイクロマウスキット　Zirconia　の下位層のソフト構成をベースとしている．　　
 https://bitbucket.org/kohiro/zirconia_sample/src/master/    
 https://drive.google.com/file/d/1Cd2tDbJwFvDJpaGqB1d-GE1OD7vOHeNP/view
 
