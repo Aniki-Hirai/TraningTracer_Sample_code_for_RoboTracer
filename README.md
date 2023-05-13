@@ -28,7 +28,7 @@ PA12 -> DRV8835 AIN2接続
 
 ## 元となったソフト構成
 オープンとなっているマイクロマウスキット　Zirconia　をベースとしている．
-https://bitbucket.org/kohiro/zirconia_sample/src/master/
+https://bitbucket.org/kohiro/zirconia_sample/src/master/　　
 https://drive.google.com/file/d/1Cd2tDbJwFvDJpaGqB1d-GE1OD7vOHeNP/view
 
 
