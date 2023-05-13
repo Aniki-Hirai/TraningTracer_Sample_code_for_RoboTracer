@@ -24,7 +24,13 @@ PA11 -> DRV8835 AIN2接続
 PA12 -> ブザー接続  
 ↓（パターンカットと配線で入れ替え改造）  
 PA11 -> ブザー接続  
-PA12 -> DRV8835 AIN2接続  
+PA12 -> DRV8835 AIN2接続 
+
+## 元となったソフト構成
+オープンとなっているマイクロマウスキット　Zirconia　をベースとしている．
+https://bitbucket.org/kohiro/zirconia_sample/src/master/
+https://drive.google.com/file/d/1Cd2tDbJwFvDJpaGqB1d-GE1OD7vOHeNP/view
+
 
 ## ライセンス
 
